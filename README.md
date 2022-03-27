@@ -6,10 +6,14 @@ This repository contains the solutions to programming assignments given in the C
 
 - Functional programming
 - Standard ML
+- ml-lex
+- ml-yacc
 - Logic programming
 - Prolog
 
 ## Features
 
-- A basic interpreter interpreted in Standard ML
+- A basic interpreter written in Standard ML
 - Integer binary trees and binary search trees in prolog
+- A lexer and parser for a programming language `WHILE` made using ml-lex and ml-yacc
+- An evaluator for `WHILE` using the previous lexer and parser along with stacks and memory
